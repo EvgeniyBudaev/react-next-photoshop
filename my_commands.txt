@@ -11,3 +11,5 @@ npm run debug // F5 - чтобы появился дебагер
 
 npm i -D classnames
 npm i -D @types/classnames
+
+npm i -D @svgr/webpack
