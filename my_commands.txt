@@ -1,0 +1,4 @@
+npx create-next-app react-next-photoshop --use-npm
+touch tsconfig.json
+npm i -D typescript @types/react @types/node
+npm run dev // поддержка typescript готова
