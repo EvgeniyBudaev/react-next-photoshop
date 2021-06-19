@@ -8,3 +8,6 @@ npm i -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
 npm i -D stylelint stylelint-config-standard stylelint-order stylelint-order-config-standard
 
 npm run debug // F5 - чтобы появился дебагер
+
+npm i -D classnames
+npm i -D @types/classnames
