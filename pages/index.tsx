@@ -5,7 +5,7 @@ import { Button, Htag, Ptag, Rating, Tag } from '../components';
 import { withLayout } from '../components/layout/Layout';
 import { MenuItem } from '../interfaces/menu.interface';
 
-function Home({ menu }): JSX.Element {
+function Home({ menu }: HomeProps): JSX.Element {
   const [rating, setRating] = useState<number>(4);
 
   return (
