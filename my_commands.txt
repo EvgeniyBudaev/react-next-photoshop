@@ -13,3 +13,5 @@ npm i -D classnames
 npm i -D @types/classnames
 
 npm i -D @svgr/webpack
+
+npm i -D eslint-plugin-react-hooks
